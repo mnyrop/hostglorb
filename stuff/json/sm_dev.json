@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/collections/mss208:fales/manifest.json",
+  "id": "https://stage-sites.dlib.nyu.edu/viewer/api/presentation/collections/mss208:fales/manifest.json",
   "type": "Collection",
   "label": {
     "en": [
@@ -9,1082 +9,452 @@
   },
   "items": [
     {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid0/manifest.json",
+      "id": "https://stage-sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid0/manifest.json",
       "type": "Manifest",
       "label": {
         "en": [
-          "fales_mss208_cuid0"
+          "Receipt"
         ]
       }
     },
     {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid100/manifest.json",
+      "id": "https://stage-sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid100/manifest.json",
       "type": "Manifest",
       "label": {
         "en": [
-          "fales_mss208_cuid100"
+          "Promissory Note - David Fanning & John Hudson"
         ]
       }
     },
     {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid101/manifest.json",
+      "id": "https://stage-sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid101/manifest.json",
       "type": "Manifest",
       "label": {
         "en": [
-          "fales_mss208_cuid101"
+          "Promissory Note - William Devall"
         ]
       }
     },
     {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid102/manifest.json",
+      "id": "https://stage-sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid102/manifest.json",
       "type": "Manifest",
       "label": {
         "en": [
-          "fales_mss208_cuid102"
+          "Payment - Thomas Johnson, Rent"
         ]
       }
     },
     {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid103/manifest.json",
+      "id": "https://stage-sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid103/manifest.json",
       "type": "Manifest",
       "label": {
         "en": [
-          "fales_mss208_cuid103"
+          "Order - James Gardiner, Clothing"
         ]
       }
     },
     {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid104/manifest.json",
+      "id": "https://stage-sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid104/manifest.json",
       "type": "Manifest",
       "label": {
         "en": [
-          "fales_mss208_cuid104"
+          "Receipt - Comfort Butler, 1/16th Part of Privateer Weasel"
         ]
       }
     },
     {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid105/manifest.json",
+      "id": "https://stage-sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid105/manifest.json",
       "type": "Manifest",
       "label": {
         "en": [
-          "fales_mss208_cuid105"
+          "Bill of Sale - Comfort Butler, 1/16th Part of Privateer Schooner Weasel"
         ]
       }
     },
     {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid106/manifest.json",
+      "id": "https://stage-sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid106/manifest.json",
       "type": "Manifest",
       "label": {
         "en": [
-          "fales_mss208_cuid106"
+          "Promissory Note - James Fells"
         ]
       }
     },
     {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid107/manifest.json",
+      "id": "https://stage-sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid107/manifest.json",
       "type": "Manifest",
       "label": {
         "en": [
-          "fales_mss208_cuid107"
+          "Account - Daniel Sandford Against Paul Sayre"
         ]
       }
     },
     {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1083/manifest.json",
+      "id": "https://stage-sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1083/manifest.json",
       "type": "Manifest",
       "label": {
         "en": [
-          "fales_mss208_cuid1083"
+          "Corey, Phineas: Redfield, NY"
         ]
       }
     },
     {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1084/manifest.json",
+      "id": "https://stage-sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1084/manifest.json",
       "type": "Manifest",
       "label": {
         "en": [
-          "fales_mss208_cuid1084"
+          "Davenport, Jemima C: [Greenport, NY]"
         ]
       }
     },
     {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1085/manifest.json",
+      "id": "https://stage-sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1085/manifest.json",
       "type": "Manifest",
       "label": {
         "en": [
-          "fales_mss208_cuid1085"
+          "Dayton, Abraham: Palenville, NY"
         ]
       }
     },
     {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1086/manifest.json",
+      "id": "https://stage-sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1086/manifest.json",
       "type": "Manifest",
       "label": {
         "en": [
-          "fales_mss208_cuid1086"
+          "Dayton, Jonathan: East Hampton, NY"
         ]
       }
     },
     {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1087/manifest.json",
+      "id": "https://stage-sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1087/manifest.json",
       "type": "Manifest",
       "label": {
         "en": [
-          "fales_mss208_cuid1087"
+          "Dayton, Jonathan: East Hampton, NY"
         ]
       }
     },
     {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1088/manifest.json",
+      "id": "https://stage-sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1088/manifest.json",
       "type": "Manifest",
       "label": {
         "en": [
-          "fales_mss208_cuid1088"
+          "Dayton, Ralph: East Hampton, NY"
         ]
       }
     },
     {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1089/manifest.json",
+      "id": "https://stage-sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1089/manifest.json",
       "type": "Manifest",
       "label": {
         "en": [
-          "fales_mss208_cuid1089"
+          "Derby, JC: New York, NY"
         ]
       }
     },
     {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid108/manifest.json",
+      "id": "https://stage-sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid108/manifest.json",
       "type": "Manifest",
       "label": {
         "en": [
-          "fales_mss208_cuid108"
+          "Accounts - Schooner Weasel"
         ]
       }
     },
     {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1090/manifest.json",
+      "id": "https://stage-sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1090/manifest.json",
       "type": "Manifest",
       "label": {
         "en": [
-          "fales_mss208_cuid1090"
+          "Dering, Charles Thomas: Sag Harbor, NY"
         ]
       }
     },
     {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1091/manifest.json",
+      "id": "https://stage-sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1091/manifest.json",
       "type": "Manifest",
       "label": {
         "en": [
-          "fales_mss208_cuid1091"
+          "Dering, Frances Mary: New York, NY"
         ]
       }
     },
     {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1092/manifest.json",
+      "id": "https://stage-sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1092/manifest.json",
       "type": "Manifest",
       "label": {
         "en": [
-          "fales_mss208_cuid1092"
+          "Dering, Nicholas Havens: New York, NY"
         ]
       }
     },
     {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1093/manifest.json",
+      "id": "https://stage-sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1093/manifest.json",
       "type": "Manifest",
       "label": {
         "en": [
-          "fales_mss208_cuid1093"
+          "Dickinson, DT: [W.S. Hatie] Saratoga Springs, NY"
         ]
       }
     },
     {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1094/manifest.json",
+      "id": "https://stage-sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1094/manifest.json",
       "type": "Manifest",
       "label": {
         "en": [
-          "fales_mss208_cuid1094"
+          "Dyckman, N: New York, NY"
         ]
       }
     },
     {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1095/manifest.json",
+      "id": "https://stage-sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1095/manifest.json",
       "type": "Manifest",
       "label": {
         "en": [
-          "fales_mss208_cuid1095"
+          "Dyckman, William N: [Harlem] New York, NY"
         ]
       }
     },
     {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1096/manifest.json",
+      "id": "https://stage-sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1096/manifest.json",
       "type": "Manifest",
       "label": {
         "en": [
-          "fales_mss208_cuid1096"
+          "Dyckman, William N: New York, NY"
         ]
       }
     },
     {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1097/manifest.json",
+      "id": "https://stage-sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1097/manifest.json",
       "type": "Manifest",
       "label": {
         "en": [
-          "fales_mss208_cuid1097"
+          "Edwards, Ogden: Albany, NY; New York, NY"
         ]
       }
     },
     {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1098/manifest.json",
+      "id": "https://stage-sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1098/manifest.json",
       "type": "Manifest",
       "label": {
         "en": [
-          "fales_mss208_cuid1098"
+          "Edwards, Ogden: Albany, NY"
         ]
       }
     },
     {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1099/manifest.json",
+      "id": "https://stage-sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1099/manifest.json",
       "type": "Manifest",
       "label": {
         "en": [
-          "fales_mss208_cuid1099"
+          "Gardiner, Abraham: East Hampton, NY; Lyme, NY"
         ]
       }
     },
     {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid109/manifest.json",
+      "id": "https://stage-sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid109/manifest.json",
       "type": "Manifest",
       "label": {
         "en": [
-          "fales_mss208_cuid109"
+          "Promissory Note - H. Johnson, Gilbert Fanning"
         ]
       }
     },
     {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid10/manifest.json",
+      "id": "https://stage-sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid10/manifest.json",
       "type": "Manifest",
       "label": {
         "en": [
-          "fales_mss208_cuid10"
+          "Account - Ezra L'Hommedieu with Sloop John Butler"
         ]
       }
     },
     {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1100/manifest.json",
+      "id": "https://stage-sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1100/manifest.json",
       "type": "Manifest",
       "label": {
         "en": [
-          "fales_mss208_cuid1100"
+          "Gardiner, Alexi: New York, NY"
         ]
       }
     },
     {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1101/manifest.json",
+      "id": "https://stage-sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1101/manifest.json",
       "type": "Manifest",
       "label": {
         "en": [
-          "fales_mss208_cuid1101"
+          "[Gardiner Children]: Albany, NY; Providence, RI; Shelter Island, NY"
         ]
       }
     },
     {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1102/manifest.json",
+      "id": "https://stage-sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1102/manifest.json",
       "type": "Manifest",
       "label": {
         "en": [
-          "fales_mss208_cuid1102"
+          "[Gardiner Children]: Albany, NY; New York, NY"
         ]
       }
     },
     {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1103/manifest.json",
+      "id": "https://stage-sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1103/manifest.json",
       "type": "Manifest",
       "label": {
         "en": [
-          "fales_mss208_cuid1103"
+          "Gardiner, David: New York, NY"
         ]
       }
     },
     {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1104/manifest.json",
+      "id": "https://stage-sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1104/manifest.json",
       "type": "Manifest",
       "label": {
         "en": [
-          "fales_mss208_cuid1104"
+          "Gardiner, John B: Brooklyn, NY"
         ]
       }
     },
     {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1105/manifest.json",
+      "id": "https://stage-sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1105/manifest.json",
       "type": "Manifest",
       "label": {
         "en": [
-          "fales_mss208_cuid1105"
+          "Gardiner, John B: Brooklyn, NY"
         ]
       }
     },
     {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1106/manifest.json",
+      "id": "https://stage-sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1106/manifest.json",
       "type": "Manifest",
       "label": {
         "en": [
-          "fales_mss208_cuid1106"
+          "Gardiner, John B: Brooklyn, NY"
         ]
       }
     },
     {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1107/manifest.json",
+      "id": "https://stage-sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1107/manifest.json",
       "type": "Manifest",
       "label": {
         "en": [
-          "fales_mss208_cuid1107"
+          "Gardiner, John G: Gardiner's Island, East Hampton, NY"
         ]
       }
     },
     {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1108/manifest.json",
+      "id": "https://stage-sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1108/manifest.json",
       "type": "Manifest",
       "label": {
         "en": [
-          "fales_mss208_cuid1108"
+          "Gardiner, John L: Gardiner's Island, East Hampton, NY"
         ]
       }
     },
     {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1109/manifest.json",
+      "id": "https://stage-sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1109/manifest.json",
       "type": "Manifest",
       "label": {
         "en": [
-          "fales_mss208_cuid1109"
+          "Gardiner, Mary Smith: East Hampton, NY"
         ]
       }
     },
     {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid110/manifest.json",
+      "id": "https://stage-sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid110/manifest.json",
       "type": "Manifest",
       "label": {
         "en": [
-          "fales_mss208_cuid110"
+          "Order - Captain Sanford Thompson, David Stephanus"
         ]
       }
     },
     {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1110/manifest.json",
+      "id": "https://stage-sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1110/manifest.json",
       "type": "Manifest",
       "label": {
         "en": [
-          "fales_mss208_cuid1110"
+          "Gardiner, Mary Catherine L'Hommedieu: Sag Harbor, NY [1 of 5]"
         ]
       }
     },
     {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1111/manifest.json",
+      "id": "https://stage-sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1111/manifest.json",
       "type": "Manifest",
       "label": {
         "en": [
-          "fales_mss208_cuid1111"
+          "Gardiner, Mary Catherine L'Hommedieu: Bridgehampton & Westhampton, NY [2 of 5]"
         ]
       }
     },
     {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1112/manifest.json",
+      "id": "https://stage-sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1112/manifest.json",
       "type": "Manifest",
       "label": {
         "en": [
-          "fales_mss208_cuid1112"
+          "Gardiner, Mary Catherine L'Hommedieu: East Hampton, NY [3 of 5]"
         ]
       }
     },
     {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1113/manifest.json",
+      "id": "https://stage-sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1113/manifest.json",
       "type": "Manifest",
       "label": {
         "en": [
-          "fales_mss208_cuid1113"
+          "Gardiner, Mary Catherine L'Hommedieu: Brooklyn, NY; Sing Sing (Ossining), NY [4 of 5]"
         ]
       }
     },
     {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1114/manifest.json",
+      "id": "https://stage-sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1114/manifest.json",
       "type": "Manifest",
       "label": {
         "en": [
-          "fales_mss208_cuid1114"
+          "Gardiner, Mary Catherine L'Hommedieu: Westhampton, NY; Sing Sing (Ossining), NY[5 of 5]"
         ]
       }
     },
     {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1115/manifest.json",
+      "id": "https://stage-sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1115/manifest.json",
       "type": "Manifest",
       "label": {
         "en": [
-          "fales_mss208_cuid1115"
+          "Gardiner, Mary Catherine L'Hommedieu with Mary Catherine Gardiner Horsford: Shelter Island, NY"
         ]
       }
     },
     {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1116/manifest.json",
+      "id": "https://stage-sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1116/manifest.json",
       "type": "Manifest",
       "label": {
         "en": [
-          "fales_mss208_cuid1116"
+          "Gardiner, Nathaniel: Brooklyn, NY"
         ]
       }
     },
     {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1117/manifest.json",
+      "id": "https://stage-sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1117/manifest.json",
       "type": "Manifest",
       "label": {
         "en": [
-          "fales_mss208_cuid1117"
+          "Gardiner, Sarah: East Hampton, NY [1 of 5]"
         ]
       }
     },
     {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1118/manifest.json",
+      "id": "https://stage-sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1118/manifest.json",
       "type": "Manifest",
       "label": {
         "en": [
-          "fales_mss208_cuid1118"
+          "Gardiner, Sarah: East Hampton, NY; Gardiners Island, Southampton, NY [2 of 5]"
         ]
       }
     },
     {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1119/manifest.json",
+      "id": "https://stage-sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1119/manifest.json",
       "type": "Manifest",
       "label": {
         "en": [
-          "fales_mss208_cuid1119"
-        ]
-      }
-    },
-    {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid111/manifest.json",
-      "type": "Manifest",
-      "label": {
-        "en": [
-          "fales_mss208_cuid111"
-        ]
-      }
-    },
-    {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1120/manifest.json",
-      "type": "Manifest",
-      "label": {
-        "en": [
-          "fales_mss208_cuid1120"
-        ]
-      }
-    },
-    {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1127/manifest.json",
-      "type": "Manifest",
-      "label": {
-        "en": [
-          "fales_mss208_cuid1127"
-        ]
-      }
-    },
-    {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid112/manifest.json",
-      "type": "Manifest",
-      "label": {
-        "en": [
-          "fales_mss208_cuid112"
-        ]
-      }
-    },
-    {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid113/manifest.json",
-      "type": "Manifest",
-      "label": {
-        "en": [
-          "fales_mss208_cuid113"
-        ]
-      }
-    },
-    {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid114/manifest.json",
-      "type": "Manifest",
-      "label": {
-        "en": [
-          "fales_mss208_cuid114"
-        ]
-      }
-    },
-    {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid115/manifest.json",
-      "type": "Manifest",
-      "label": {
-        "en": [
-          "fales_mss208_cuid115"
-        ]
-      }
-    },
-    {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid116/manifest.json",
-      "type": "Manifest",
-      "label": {
-        "en": [
-          "fales_mss208_cuid116"
-        ]
-      }
-    },
-    {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid117/manifest.json",
-      "type": "Manifest",
-      "label": {
-        "en": [
-          "fales_mss208_cuid117"
-        ]
-      }
-    },
-    {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid118/manifest.json",
-      "type": "Manifest",
-      "label": {
-        "en": [
-          "fales_mss208_cuid118"
-        ]
-      }
-    },
-    {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid119/manifest.json",
-      "type": "Manifest",
-      "label": {
-        "en": [
-          "fales_mss208_cuid119"
-        ]
-      }
-    },
-    {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid11/manifest.json",
-      "type": "Manifest",
-      "label": {
-        "en": [
-          "fales_mss208_cuid11"
-        ]
-      }
-    },
-    {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid120/manifest.json",
-      "type": "Manifest",
-      "label": {
-        "en": [
-          "fales_mss208_cuid120"
-        ]
-      }
-    },
-    {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid121/manifest.json",
-      "type": "Manifest",
-      "label": {
-        "en": [
-          "fales_mss208_cuid121"
-        ]
-      }
-    },
-    {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid122/manifest.json",
-      "type": "Manifest",
-      "label": {
-        "en": [
-          "fales_mss208_cuid122"
-        ]
-      }
-    },
-    {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid123/manifest.json",
-      "type": "Manifest",
-      "label": {
-        "en": [
-          "fales_mss208_cuid123"
-        ]
-      }
-    },
-    {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid124/manifest.json",
-      "type": "Manifest",
-      "label": {
-        "en": [
-          "fales_mss208_cuid124"
-        ]
-      }
-    },
-    {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid125/manifest.json",
-      "type": "Manifest",
-      "label": {
-        "en": [
-          "fales_mss208_cuid125"
-        ]
-      }
-    },
-    {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid126/manifest.json",
-      "type": "Manifest",
-      "label": {
-        "en": [
-          "fales_mss208_cuid126"
-        ]
-      }
-    },
-    {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1272/manifest.json",
-      "type": "Manifest",
-      "label": {
-        "en": [
-          "fales_mss208_cuid1272"
-        ]
-      }
-    },
-    {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1273/manifest.json",
-      "type": "Manifest",
-      "label": {
-        "en": [
-          "fales_mss208_cuid1273"
-        ]
-      }
-    },
-    {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1274/manifest.json",
-      "type": "Manifest",
-      "label": {
-        "en": [
-          "fales_mss208_cuid1274"
-        ]
-      }
-    },
-    {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1275/manifest.json",
-      "type": "Manifest",
-      "label": {
-        "en": [
-          "fales_mss208_cuid1275"
-        ]
-      }
-    },
-    {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1276/manifest.json",
-      "type": "Manifest",
-      "label": {
-        "en": [
-          "fales_mss208_cuid1276"
-        ]
-      }
-    },
-    {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1277/manifest.json",
-      "type": "Manifest",
-      "label": {
-        "en": [
-          "fales_mss208_cuid1277"
-        ]
-      }
-    },
-    {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1278/manifest.json",
-      "type": "Manifest",
-      "label": {
-        "en": [
-          "fales_mss208_cuid1278"
-        ]
-      }
-    },
-    {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1279/manifest.json",
-      "type": "Manifest",
-      "label": {
-        "en": [
-          "fales_mss208_cuid1279"
-        ]
-      }
-    },
-    {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid127/manifest.json",
-      "type": "Manifest",
-      "label": {
-        "en": [
-          "fales_mss208_cuid127"
-        ]
-      }
-    },
-    {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1280/manifest.json",
-      "type": "Manifest",
-      "label": {
-        "en": [
-          "fales_mss208_cuid1280"
-        ]
-      }
-    },
-    {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1281/manifest.json",
-      "type": "Manifest",
-      "label": {
-        "en": [
-          "fales_mss208_cuid1281"
-        ]
-      }
-    },
-    {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1282/manifest.json",
-      "type": "Manifest",
-      "label": {
-        "en": [
-          "fales_mss208_cuid1282"
-        ]
-      }
-    },
-    {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1285/manifest.json",
-      "type": "Manifest",
-      "label": {
-        "en": [
-          "fales_mss208_cuid1285"
-        ]
-      }
-    },
-    {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1286/manifest.json",
-      "type": "Manifest",
-      "label": {
-        "en": [
-          "fales_mss208_cuid1286"
-        ]
-      }
-    },
-    {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1287/manifest.json",
-      "type": "Manifest",
-      "label": {
-        "en": [
-          "fales_mss208_cuid1287"
-        ]
-      }
-    },
-    {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1288/manifest.json",
-      "type": "Manifest",
-      "label": {
-        "en": [
-          "fales_mss208_cuid1288"
-        ]
-      }
-    },
-    {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid128/manifest.json",
-      "type": "Manifest",
-      "label": {
-        "en": [
-          "fales_mss208_cuid128"
-        ]
-      }
-    },
-    {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1290/manifest.json",
-      "type": "Manifest",
-      "label": {
-        "en": [
-          "fales_mss208_cuid1290"
-        ]
-      }
-    },
-    {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1292/manifest.json",
-      "type": "Manifest",
-      "label": {
-        "en": [
-          "fales_mss208_cuid1292"
-        ]
-      }
-    },
-    {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1293/manifest.json",
-      "type": "Manifest",
-      "label": {
-        "en": [
-          "fales_mss208_cuid1293"
-        ]
-      }
-    },
-    {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1294/manifest.json",
-      "type": "Manifest",
-      "label": {
-        "en": [
-          "fales_mss208_cuid1294"
-        ]
-      }
-    },
-    {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1295/manifest.json",
-      "type": "Manifest",
-      "label": {
-        "en": [
-          "fales_mss208_cuid1295"
-        ]
-      }
-    },
-    {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid129/manifest.json",
-      "type": "Manifest",
-      "label": {
-        "en": [
-          "fales_mss208_cuid129"
-        ]
-      }
-    },
-    {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid12/manifest.json",
-      "type": "Manifest",
-      "label": {
-        "en": [
-          "fales_mss208_cuid12"
-        ]
-      }
-    },
-    {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid130/manifest.json",
-      "type": "Manifest",
-      "label": {
-        "en": [
-          "fales_mss208_cuid130"
-        ]
-      }
-    },
-    {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid131/manifest.json",
-      "type": "Manifest",
-      "label": {
-        "en": [
-          "fales_mss208_cuid131"
-        ]
-      }
-    },
-    {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid132/manifest.json",
-      "type": "Manifest",
-      "label": {
-        "en": [
-          "fales_mss208_cuid132"
-        ]
-      }
-    },
-    {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid133/manifest.json",
-      "type": "Manifest",
-      "label": {
-        "en": [
-          "fales_mss208_cuid133"
-        ]
-      }
-    },
-    {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid134/manifest.json",
-      "type": "Manifest",
-      "label": {
-        "en": [
-          "fales_mss208_cuid134"
-        ]
-      }
-    },
-    {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid135/manifest.json",
-      "type": "Manifest",
-      "label": {
-        "en": [
-          "fales_mss208_cuid135"
-        ]
-      }
-    },
-    {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid136/manifest.json",
-      "type": "Manifest",
-      "label": {
-        "en": [
-          "fales_mss208_cuid136"
-        ]
-      }
-    },
-    {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid137/manifest.json",
-      "type": "Manifest",
-      "label": {
-        "en": [
-          "fales_mss208_cuid137"
-        ]
-      }
-    },
-    {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid138/manifest.json",
-      "type": "Manifest",
-      "label": {
-        "en": [
-          "fales_mss208_cuid138"
-        ]
-      }
-    },
-    {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid139/manifest.json",
-      "type": "Manifest",
-      "label": {
-        "en": [
-          "fales_mss208_cuid139"
-        ]
-      }
-    },
-    {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid13/manifest.json",
-      "type": "Manifest",
-      "label": {
-        "en": [
-          "fales_mss208_cuid13"
-        ]
-      }
-    },
-    {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid140/manifest.json",
-      "type": "Manifest",
-      "label": {
-        "en": [
-          "fales_mss208_cuid140"
-        ]
-      }
-    },
-    {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid142/manifest.json",
-      "type": "Manifest",
-      "label": {
-        "en": [
-          "fales_mss208_cuid142"
-        ]
-      }
-    },
-    {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid143/manifest.json",
-      "type": "Manifest",
-      "label": {
-        "en": [
-          "fales_mss208_cuid143"
-        ]
-      }
-    },
-    {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid144/manifest.json",
-      "type": "Manifest",
-      "label": {
-        "en": [
-          "fales_mss208_cuid144"
-        ]
-      }
-    },
-    {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid145/manifest.json",
-      "type": "Manifest",
-      "label": {
-        "en": [
-          "fales_mss208_cuid145"
-        ]
-      }
-    },
-    {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid146/manifest.json",
-      "type": "Manifest",
-      "label": {
-        "en": [
-          "fales_mss208_cuid146"
-        ]
-      }
-    },
-    {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid147/manifest.json",
-      "type": "Manifest",
-      "label": {
-        "en": [
-          "fales_mss208_cuid147"
-        ]
-      }
-    },
-    {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid148/manifest.json",
-      "type": "Manifest",
-      "label": {
-        "en": [
-          "fales_mss208_cuid148"
-        ]
-      }
-    },
-    {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid149/manifest.json",
-      "type": "Manifest",
-      "label": {
-        "en": [
-          "fales_mss208_cuid149"
-        ]
-      }
-    },
-    {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid14/manifest.json",
-      "type": "Manifest",
-      "label": {
-        "en": [
-          "fales_mss208_cuid14"
-        ]
-      }
-    },
-    {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid150/manifest.json",
-      "type": "Manifest",
-      "label": {
-        "en": [
-          "fales_mss208_cuid150"
-        ]
-      }
-    },
-    {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid151/manifest.json",
-      "type": "Manifest",
-      "label": {
-        "en": [
-          "fales_mss208_cuid151"
-        ]
-      }
-    },
-    {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid152/manifest.json",
-      "type": "Manifest",
-      "label": {
-        "en": [
-          "fales_mss208_cuid152"
-        ]
-      }
-    },
-    {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid153/manifest.json",
-      "type": "Manifest",
-      "label": {
-        "en": [
-          "fales_mss208_cuid153"
-        ]
-      }
-    },
-    {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid154/manifest.json",
-      "type": "Manifest",
-      "label": {
-        "en": [
-          "fales_mss208_cuid154"
-        ]
-      }
-    },
-    {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid155/manifest.json",
-      "type": "Manifest",
-      "label": {
-        "en": [
-          "fales_mss208_cuid155"
+          "Gardiner, Sarah: East Hampton, NY; Gardiners Island, Southampton, NY [3 of 5]"
         ]
       }
     }
