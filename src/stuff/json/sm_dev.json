@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/collections/mss208:fales/manifest.json",
+  "id": "https://stage-sites.dlib.nyu.edu/viewer/api/presentation/collections/mss208:fales/manifest.json",
   "type": "Collection",
   "label": {
     "en": [
@@ -9,7 +9,7 @@
   },
   "items": [
     {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid0/manifest.json",
+      "id": "https://stage-sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid0/manifest.json",
       "type": "Manifest",
       "label": {
         "en": [
@@ -18,7 +18,7 @@
       }
     },
     {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid100/manifest.json",
+      "id": "https://stage-sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid100/manifest.json",
       "type": "Manifest",
       "label": {
         "en": [
@@ -27,7 +27,7 @@
       }
     },
     {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid101/manifest.json",
+      "id": "https://stage-sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid101/manifest.json",
       "type": "Manifest",
       "label": {
         "en": [
@@ -36,7 +36,7 @@
       }
     },
     {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid102/manifest.json",
+      "id": "https://stage-sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid102/manifest.json",
       "type": "Manifest",
       "label": {
         "en": [
@@ -45,7 +45,7 @@
       }
     },
     {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid103/manifest.json",
+      "id": "https://stage-sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid103/manifest.json",
       "type": "Manifest",
       "label": {
         "en": [
@@ -54,7 +54,7 @@
       }
     },
     {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid104/manifest.json",
+      "id": "https://stage-sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid104/manifest.json",
       "type": "Manifest",
       "label": {
         "en": [
@@ -63,7 +63,7 @@
       }
     },
     {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid105/manifest.json",
+      "id": "https://stage-sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid105/manifest.json",
       "type": "Manifest",
       "label": {
         "en": [
@@ -72,7 +72,7 @@
       }
     },
     {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid106/manifest.json",
+      "id": "https://stage-sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid106/manifest.json",
       "type": "Manifest",
       "label": {
         "en": [
@@ -81,7 +81,7 @@
       }
     },
     {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid107/manifest.json",
+      "id": "https://stage-sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid107/manifest.json",
       "type": "Manifest",
       "label": {
         "en": [
@@ -90,7 +90,7 @@
       }
     },
     {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1083/manifest.json",
+      "id": "https://stage-sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1083/manifest.json",
       "type": "Manifest",
       "label": {
         "en": [
@@ -99,7 +99,7 @@
       }
     },
     {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1084/manifest.json",
+      "id": "https://stage-sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1084/manifest.json",
       "type": "Manifest",
       "label": {
         "en": [
@@ -108,7 +108,7 @@
       }
     },
     {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1085/manifest.json",
+      "id": "https://stage-sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1085/manifest.json",
       "type": "Manifest",
       "label": {
         "en": [
@@ -117,7 +117,7 @@
       }
     },
     {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1086/manifest.json",
+      "id": "https://stage-sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1086/manifest.json",
       "type": "Manifest",
       "label": {
         "en": [
@@ -126,7 +126,7 @@
       }
     },
     {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1087/manifest.json",
+      "id": "https://stage-sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1087/manifest.json",
       "type": "Manifest",
       "label": {
         "en": [
@@ -135,7 +135,7 @@
       }
     },
     {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1088/manifest.json",
+      "id": "https://stage-sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1088/manifest.json",
       "type": "Manifest",
       "label": {
         "en": [
@@ -144,7 +144,7 @@
       }
     },
     {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1089/manifest.json",
+      "id": "https://stage-sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1089/manifest.json",
       "type": "Manifest",
       "label": {
         "en": [
@@ -153,7 +153,7 @@
       }
     },
     {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid108/manifest.json",
+      "id": "https://stage-sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid108/manifest.json",
       "type": "Manifest",
       "label": {
         "en": [
@@ -162,7 +162,7 @@
       }
     },
     {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1090/manifest.json",
+      "id": "https://stage-sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1090/manifest.json",
       "type": "Manifest",
       "label": {
         "en": [
@@ -171,7 +171,7 @@
       }
     },
     {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1091/manifest.json",
+      "id": "https://stage-sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1091/manifest.json",
       "type": "Manifest",
       "label": {
         "en": [
@@ -180,7 +180,7 @@
       }
     },
     {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1092/manifest.json",
+      "id": "https://stage-sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1092/manifest.json",
       "type": "Manifest",
       "label": {
         "en": [
@@ -189,7 +189,7 @@
       }
     },
     {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1093/manifest.json",
+      "id": "https://stage-sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1093/manifest.json",
       "type": "Manifest",
       "label": {
         "en": [
@@ -198,7 +198,7 @@
       }
     },
     {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1094/manifest.json",
+      "id": "https://stage-sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1094/manifest.json",
       "type": "Manifest",
       "label": {
         "en": [
@@ -207,7 +207,7 @@
       }
     },
     {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1095/manifest.json",
+      "id": "https://stage-sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1095/manifest.json",
       "type": "Manifest",
       "label": {
         "en": [
@@ -216,7 +216,7 @@
       }
     },
     {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1096/manifest.json",
+      "id": "https://stage-sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1096/manifest.json",
       "type": "Manifest",
       "label": {
         "en": [
@@ -225,7 +225,7 @@
       }
     },
     {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1097/manifest.json",
+      "id": "https://stage-sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1097/manifest.json",
       "type": "Manifest",
       "label": {
         "en": [
@@ -234,7 +234,7 @@
       }
     },
     {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1098/manifest.json",
+      "id": "https://stage-sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1098/manifest.json",
       "type": "Manifest",
       "label": {
         "en": [
@@ -243,7 +243,7 @@
       }
     },
     {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1099/manifest.json",
+      "id": "https://stage-sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1099/manifest.json",
       "type": "Manifest",
       "label": {
         "en": [
@@ -252,7 +252,7 @@
       }
     },
     {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid109/manifest.json",
+      "id": "https://stage-sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid109/manifest.json",
       "type": "Manifest",
       "label": {
         "en": [
@@ -261,7 +261,7 @@
       }
     },
     {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid10/manifest.json",
+      "id": "https://stage-sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid10/manifest.json",
       "type": "Manifest",
       "label": {
         "en": [
@@ -270,7 +270,7 @@
       }
     },
     {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1100/manifest.json",
+      "id": "https://stage-sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1100/manifest.json",
       "type": "Manifest",
       "label": {
         "en": [
@@ -279,7 +279,7 @@
       }
     },
     {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1101/manifest.json",
+      "id": "https://stage-sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1101/manifest.json",
       "type": "Manifest",
       "label": {
         "en": [
@@ -288,7 +288,7 @@
       }
     },
     {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1102/manifest.json",
+      "id": "https://stage-sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1102/manifest.json",
       "type": "Manifest",
       "label": {
         "en": [
@@ -297,7 +297,7 @@
       }
     },
     {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1103/manifest.json",
+      "id": "https://stage-sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1103/manifest.json",
       "type": "Manifest",
       "label": {
         "en": [
@@ -306,7 +306,7 @@
       }
     },
     {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1104/manifest.json",
+      "id": "https://stage-sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1104/manifest.json",
       "type": "Manifest",
       "label": {
         "en": [
@@ -315,7 +315,7 @@
       }
     },
     {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1105/manifest.json",
+      "id": "https://stage-sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1105/manifest.json",
       "type": "Manifest",
       "label": {
         "en": [
@@ -324,7 +324,7 @@
       }
     },
     {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1106/manifest.json",
+      "id": "https://stage-sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1106/manifest.json",
       "type": "Manifest",
       "label": {
         "en": [
@@ -333,7 +333,7 @@
       }
     },
     {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1107/manifest.json",
+      "id": "https://stage-sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1107/manifest.json",
       "type": "Manifest",
       "label": {
         "en": [
@@ -342,7 +342,7 @@
       }
     },
     {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1108/manifest.json",
+      "id": "https://stage-sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1108/manifest.json",
       "type": "Manifest",
       "label": {
         "en": [
@@ -351,7 +351,7 @@
       }
     },
     {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1109/manifest.json",
+      "id": "https://stage-sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1109/manifest.json",
       "type": "Manifest",
       "label": {
         "en": [
@@ -360,7 +360,7 @@
       }
     },
     {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid110/manifest.json",
+      "id": "https://stage-sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid110/manifest.json",
       "type": "Manifest",
       "label": {
         "en": [
@@ -369,7 +369,7 @@
       }
     },
     {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1110/manifest.json",
+      "id": "https://stage-sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1110/manifest.json",
       "type": "Manifest",
       "label": {
         "en": [
@@ -378,7 +378,7 @@
       }
     },
     {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1111/manifest.json",
+      "id": "https://stage-sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1111/manifest.json",
       "type": "Manifest",
       "label": {
         "en": [
@@ -387,7 +387,7 @@
       }
     },
     {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1112/manifest.json",
+      "id": "https://stage-sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1112/manifest.json",
       "type": "Manifest",
       "label": {
         "en": [
@@ -396,7 +396,7 @@
       }
     },
     {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1113/manifest.json",
+      "id": "https://stage-sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1113/manifest.json",
       "type": "Manifest",
       "label": {
         "en": [
@@ -405,7 +405,7 @@
       }
     },
     {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1114/manifest.json",
+      "id": "https://stage-sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1114/manifest.json",
       "type": "Manifest",
       "label": {
         "en": [
@@ -414,7 +414,7 @@
       }
     },
     {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1115/manifest.json",
+      "id": "https://stage-sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1115/manifest.json",
       "type": "Manifest",
       "label": {
         "en": [
@@ -423,7 +423,7 @@
       }
     },
     {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1116/manifest.json",
+      "id": "https://stage-sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1116/manifest.json",
       "type": "Manifest",
       "label": {
         "en": [
@@ -432,7 +432,7 @@
       }
     },
     {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1117/manifest.json",
+      "id": "https://stage-sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1117/manifest.json",
       "type": "Manifest",
       "label": {
         "en": [
@@ -441,7 +441,7 @@
       }
     },
     {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1118/manifest.json",
+      "id": "https://stage-sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1118/manifest.json",
       "type": "Manifest",
       "label": {
         "en": [
@@ -450,7 +450,7 @@
       }
     },
     {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1119/manifest.json",
+      "id": "https://stage-sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1119/manifest.json",
       "type": "Manifest",
       "label": {
         "en": [
